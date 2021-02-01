@@ -1,0 +1,46 @@
+Code,Product,Unit,Price,Discount
+1,Ground beef 10% fat,1 Kg,12.76,0.1
+2,Whole chicken on the bone,1 Kg,3.98,0.2
+3,Chicken thigh,1 Kg,4.38,0.15
+4,Onion,1 unidad,0.65,0
+5,Green pepper (Green pepper),Por unidad,1.18,0.1
+6,Green pepper,1 Kg,6.78,0.2
+7,Coriander,Bolsa 120 g,1.16,0.15
+8,Garlic,2 unidades,0.11,0
+9,Endive Lettuce (In Vzla = Creole),Unidad,2.18,0.1
+10,Washed potato,1 Kg,2.28,0.2
+11,Avocado (Hass Avocado),Kg,6.38,0.15
+12,Italian Squash (Zucchini),Unidad,1.18,0
+13,Carrot,Bolsa 1 Kg,1.70,0.1
+14,Curly cabbage,Por unidad,1.98,0.2
+15,Red tomatoes,Malla 1 Kg,2.58,0.15
+16,Orange (Bulk),1 Kg,3.98,0
+17,Lemon (in bulk),1 Kg,4.18,0.1
+18,Cucumber,Unidad,1.16,0.2
+19,Grade I rice,1 Kg,1.80,0.15
+20,Short spiral pasta,Bolsa 400 gr,2.15,0
+21,Corn flakes,510 gr,4.04,0.1
+22,Doña Arepa Corn Flour,1 Kg,5.20,0.2
+23,All purpose wheat flour,1 kg,1.84,0.15
+24,Lentils,Bolsa 500 grq,3.12,0
+25,Sugar,1 Kg,1.12,0.1
+26,Refined salt,1 kg,0.68,0.2
+27,Garlic powder,20 gr,0.42,0.15
+28,Ground cumin,15 gr,0.48,0
+29,Soy sauce,150 ml,2.20,0.1
+30,Extra virgin olive oil,250 ml,3.90,0.2
+31,Vegetable oil with canola,500,2.20,0.15
+32,Ground oregano,Sobre 15 g,0.56,0
+33,Skim milk,1 L,1.70,0.1
+34,Margarine with salt,500 gr,2.00,0.2
+35,Artisan buttery cheese,1 Kg,11.19,0.15
+36,Large white eggs,12 unidades,3.88,0
+37,Cooked leg ham,1 Kg,4.15,0.1
+38,Mineral water without gas,500 ml,1.24,0.2
+39,Powder detergent,Kg,5.88,0.15
+40,Dishwashing liquid detergent,750 ml,7.30,0
+41,Liquid bleach,1 L,2.28,0.1
+42,Toilet paper,Pack 8 rollos,6.00,0.2
+43,Shampoo,700 ml,1.58,0.15
+44,Toilet soap,3 unidades,3.38,0
+45,Shaver,2 unidades,2.70,0.1
