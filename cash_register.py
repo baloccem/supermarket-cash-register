@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+'''
+Author: Emilio Balocchi
+'''
+
+
 import pandas as pd
 import unittest
 
